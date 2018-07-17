@@ -1,0 +1,1 @@
+MoviesModule.displayMoviesInTable();
